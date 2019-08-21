@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-laser-emit",
+  "title": "laser-emit",
+  "keywords": "laser-emit, esp32, esp8266, arduino",
+  "description": "laser-emit plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-laser-emit/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-laser-emit/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
